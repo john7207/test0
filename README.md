@@ -5,6 +5,5 @@ beginning
     <head>
         <title>test0</title>
     </head>
-    <body>Hello World!>
-    </body>
+    <body>Hello World!</body>
 </html>
